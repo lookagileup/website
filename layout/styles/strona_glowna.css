@@ -9,7 +9,7 @@
 
 .mediumpic{
   grid-area: 1 / 1 / 4 / 3;
-  background-image: url("website/images/pictures/plac.jpeg");
+  background-image: url("https://lookagileup.github.io/website/images/pictures/plac.jpeg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -21,7 +21,7 @@
   display: none;
   background-color: #999;
   grid-area: 2 / 2 / 4 / 3;
-  background-image: url("website/images/pictures/ramp.jpeg");
+  background-image: url("https://lookagileup.github.io/website/images/pictures/ramp.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-left: 8vw;
@@ -58,19 +58,19 @@
 
 .g1{
   padding-top: 85%;
-  background-image: url("website/images/pictures/storageplaza.jpeg");
+  background-image: url("https://lookagileup.github.io/website/images/pictures/storageplaza.jpeg");
   background-size: cover;
 }
 
 .g2{
   padding-top: 85%;
-  background-image: url("website/images/pictures/train.jpeg");
+  background-image: url("https://lookagileup.github.io/website/images/pictures/train.jpeg");
   background-size: cover;
 }
 
 .g3{
   padding-top: 85%;
-  background-image: url("website/images/pictures/highway.jpeg");
+  background-image: url("https://lookagileup.github.io/website/images/pictures/highway.jpeg");
   background-size: cover;
 }
 
